@@ -32,25 +32,6 @@ Use this **coupon code** during checkout: POWERLABSx
 - ✅ Case-sensitive validation
 - ✅ One-time application per session
 
----
-
-## 📂 Project Structure
-
-.
-├── app/
-│ ├── cart/
-│ │ └── page.tsx # Shopping cart page
-│ ├── store/
-│ │ └── cartStores.ts # Zustand cart store
-│ └── page.tsx # Home page with products
-├── public/
-│ └── data/
-│ └── products.json # Mock product data (acts as API)
-├── styles/
-│ └── globals.css
-├── tailwind.config.js
-├── next.config.js
-└── ...
 
 ---
 
