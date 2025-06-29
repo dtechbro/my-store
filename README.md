@@ -2,8 +2,8 @@
 
 This is a responsive shopping cart web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**, designed as part of a technical assessment.
 
-> 🚀 [Live Demo](https://your-vercel-link.vercel.app)  
-> 📁 [GitHub Repository](https://github.com/dtechbro/shopping-cart)
+> 🚀 [Live Demo](https://my-store-eight-psi.vercel.app/)  
+> 📁 [GitHub Repository](https://github.com/dtechbro/my-store.git)
 
 ---
 
@@ -38,10 +38,14 @@ Use this **coupon code** during checkout: POWERLABSx
 
 .
 ├── app/
-│ ├── page.tsx # Home page with products
-│ ├── cart/page.tsx # Shopping cart page
-│ └── store/cartStores.ts # Global cart store using Zustand
-├── public/data/products.json # Mock product database
+│ ├── cart/
+│ │ └── page.tsx # Shopping cart page
+│ ├── store/
+│ │ └── cartStores.ts # Zustand cart store
+│ └── page.tsx # Home page with products
+├── public/
+│ └── data/
+│ └── products.json # Mock product data (acts as API)
 ├── styles/
 │ └── globals.css
 ├── tailwind.config.js
@@ -55,8 +59,8 @@ Use this **coupon code** during checkout: POWERLABSx
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/shopping-cart.git
-cd shopping-cart
+git clone https://github.com/dtechbro/my-store.git
+cd my-store
 ```
 
 ### 2. Install dependencies
@@ -82,7 +86,7 @@ Visit http://localhost:3000 in your browser to see the app.
 ## 🧠 Tech Stack
 
 - Next.js 14+
-- React 19
+- React 19+
 - Tailwind CSS
 - Zustand (global state management)
 - TypeScript

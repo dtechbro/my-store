@@ -51,31 +51,31 @@
     "id": 9,
     "name": "Ergonomic Wireless Mouse",
     "price": 39.99,
-    "imgUrl": "https://images.unsplash.com/photo-1587825140708-9f19825ee014?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1625750188088-f6cd6756349c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 10,
     "name": "4K Smart Monitor",
     "price": 299.99,
-    "imgUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1645685491865-42a4fbbc9912?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 11,
     "name": "10-piece Ceramic Cookware Set",
     "price": 159.99,
-    "imgUrl": "https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1588279102567-67db026f11c0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 12,
     "name": "Robot Vacuum Cleaner",
     "price": 249.99,
-    "imgUrl": "https://images.unsplash.com/photo-1591012911202-90c38dffbd17?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1603618090561-412154b4bd1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 13,
     "name": "Rechargeable Electric Toothbrush",
     "price": 49.99,
-    "imgUrl": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1575325345210-a65324e66537?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 14,
@@ -87,13 +87,13 @@
     "id": 15,
     "name": "Compact Portable Projector",
     "price": 189.99,
-    "imgUrl": "https://images.unsplash.com/photo-1602525437447-0fcf95132070?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1640890959827-6307611b34a1?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 16,
     "name": "Stainless Steel Water Bottle",
     "price": 24.99,
-    "imgUrl": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1620304386414-267c83b1857a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 17,
@@ -105,37 +105,37 @@
     "id": 18,
     "name": "Eco-Friendly Yoga Mat",
     "price": 39.99,
-    "imgUrl": "https://images.unsplash.com/photo-1583454110798-f29a15e1da7b?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1572341396754-c8b300b56292?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 19,
     "name": "12\" Cast Iron Skillet",
     "price": 49.99,
-    "imgUrl": "https://images.unsplash.com/photo-1572441710558-1a4257392741?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1549057123-650030035d85?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 20,
-    "name": "2‑Person Camping Tent",
+    "name": "2-Person Camping Tent",
     "price": 129.99,
-    "imgUrl": "https://images.unsplash.com/photo-1508766206392-8bd5cf550d1b?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1623083617157-603ec75f4178?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 21,
     "name": "Inflatable Air Mattress",
     "price": 59.99,
-    "imgUrl": "https://images.unsplash.com/photo-1576675786136-8a29ada5c22d?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1726981896458-fce07756be19?q=80&w=1116&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 22,
     "name": "Leather RFID-Blocking Wallet",
     "price": 39.99,
-    "imgUrl": "https://images.unsplash.com/photo-1535462090077-05c318ee1e9e?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1741417657803-f49d647abce4?q=80&w=984&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 23,
-    "name": "30 L Travel Backpack",
+    "name": "30L Travel Backpack",
     "price": 79.99,
-    "imgUrl": "https://images.unsplash.com/photo-1517832606298-2020ce9e1e18?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1516640175543-849c7368499b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 24,
@@ -147,36 +147,48 @@
     "id": 25,
     "name": "Knit Beanie Winter Hat",
     "price": 19.99,
-    "imgUrl": "https://images.unsplash.com/photo-1542068829-1115c75df4d1?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1664289321831-6e1c6452b43c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 26,
     "name": "Wool Blend Throw Blanket",
     "price": 59.99,
-    "imgUrl": "https://images.unsplash.com/photo-1601924638867-3ec5b4a94e2b?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1634120455427-d4db69777fdc?q=80&w=689&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 27,
     "name": "Bluetooth Earbuds w/ Case",
     "price": 99.99,
-    "imgUrl": "https://images.unsplash.com/photo-1521618754329-9d0526e8e50c?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1675361384849-87e43abc1001?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 28,
-    "name": "20 000 mAh Power Bank",
+    "name": "20,000mAh Power Bank",
     "price": 39.99,
-    "imgUrl": "https://images.unsplash.com/photo-1570813091909-17e7dc36ecd0?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1600577231598-31ea4cb50da3?q=80&w=715&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 29,
     "name": "Smart Home Plug",
     "price": 24.99,
-    "imgUrl": "https://images.unsplash.com/photo-1598327108385-5bd33c294ed0?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1599709173342-d754b32df17d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 30,
     "name": "Digital Food Scale",
     "price": 24.99,
-    "imgUrl": "https://images.unsplash.com/photo-1586201375761-83865001f49c?auto=format&fit=crop&w=500&q=60"
+    "imgUrl": "https://images.unsplash.com/photo-1417976737285-aea15c203d4a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 31,
+    "name": "Smart LED Light Strip",
+    "price": 34.99,
+    "imgUrl": "https://images.unsplash.com/photo-1528922087877-3f44f53a8f7d?q=80&w=1073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 32,
+    "name": "USB-C Multiport Adapter",
+    "price": 44.99,
+    "imgUrl": "https://images.unsplash.com/photo-1538180034828-ca03b3710451?q=80&w=1148&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
