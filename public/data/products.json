@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Canceling Headphones",
+    "price": 199.99,
+    "imgUrl": "https://images.unsplash.com/photo-1631586552668-b31039d4921d?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Tracker",
+    "price": 79.99,
+    "imgUrl": "https://images.unsplash.com/photo-1629339837617-7069ce9e7f6b?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "13\" Ultrabook Laptop",
+    "price": 999.99,
+    "imgUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Portable Speaker",
+    "price": 49.99,
+    "imgUrl": "https://images.unsplash.com/photo-1674303324806-7018a739ed11?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Qmx1ZXRvb3RoJTIwUG9ydGFibGUlMjBTcGVha2VyfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 5,
+    "name": "Foldable Drone w/ Camera",
+    "price": 299.99,
+    "imgUrl": "https://images.unsplash.com/photo-1613034014737-aad13b904581?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Electric Pressure Cooker",
+    "price": 89.99,
+    "imgUrl": "https://images.unsplash.com/photo-1599182345361-9542815e73f6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 7,
+    "name": "High-Definition Action Camera",
+    "price": 149.99,
+    "imgUrl": "https://images.unsplash.com/photo-1693993367105-d2c37d9b60ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Gaming Keyboard",
+    "price": 129.99,
+    "imgUrl": "https://images.unsplash.com/photo-1656711081969-9d16ebc2d210?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "Ergonomic Wireless Mouse",
+    "price": 39.99,
+    "imgUrl": "https://images.unsplash.com/photo-1587825140708-9f19825ee014?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 10,
+    "name": "4K Smart Monitor",
+    "price": 299.99,
+    "imgUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 11,
+    "name": "10-piece Ceramic Cookware Set",
+    "price": 159.99,
+    "imgUrl": "https://images.unsplash.com/photo-1506806732259-39c2d0268443?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 12,
+    "name": "Robot Vacuum Cleaner",
+    "price": 249.99,
+    "imgUrl": "https://images.unsplash.com/photo-1591012911202-90c38dffbd17?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 13,
+    "name": "Rechargeable Electric Toothbrush",
+    "price": 49.99,
+    "imgUrl": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 14,
+    "name": "LED Desk Lamp w/ USB",
+    "price": 29.99,
+    "imgUrl": "https://images.unsplash.com/photo-1563298723-dcfebaa392e3?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 15,
+    "name": "Compact Portable Projector",
+    "price": 189.99,
+    "imgUrl": "https://images.unsplash.com/photo-1602525437447-0fcf95132070?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 16,
+    "name": "Stainless Steel Water Bottle",
+    "price": 24.99,
+    "imgUrl": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 17,
+    "name": "Reusable Coffee Travel Mug",
+    "price": 19.99,
+    "imgUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 18,
+    "name": "Eco-Friendly Yoga Mat",
+    "price": 39.99,
+    "imgUrl": "https://images.unsplash.com/photo-1583454110798-f29a15e1da7b?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 19,
+    "name": "12\" Cast Iron Skillet",
+    "price": 49.99,
+    "imgUrl": "https://images.unsplash.com/photo-1572441710558-1a4257392741?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 20,
+    "name": "2‑Person Camping Tent",
+    "price": 129.99,
+    "imgUrl": "https://images.unsplash.com/photo-1508766206392-8bd5cf550d1b?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 21,
+    "name": "Inflatable Air Mattress",
+    "price": 59.99,
+    "imgUrl": "https://images.unsplash.com/photo-1576675786136-8a29ada5c22d?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 22,
+    "name": "Leather RFID-Blocking Wallet",
+    "price": 39.99,
+    "imgUrl": "https://images.unsplash.com/photo-1535462090077-05c318ee1e9e?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 23,
+    "name": "30 L Travel Backpack",
+    "price": 79.99,
+    "imgUrl": "https://images.unsplash.com/photo-1517832606298-2020ce9e1e18?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 24,
+    "name": "Polarized Sunglasses",
+    "price": 29.99,
+    "imgUrl": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 25,
+    "name": "Knit Beanie Winter Hat",
+    "price": 19.99,
+    "imgUrl": "https://images.unsplash.com/photo-1542068829-1115c75df4d1?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 26,
+    "name": "Wool Blend Throw Blanket",
+    "price": 59.99,
+    "imgUrl": "https://images.unsplash.com/photo-1601924638867-3ec5b4a94e2b?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 27,
+    "name": "Bluetooth Earbuds w/ Case",
+    "price": 99.99,
+    "imgUrl": "https://images.unsplash.com/photo-1521618754329-9d0526e8e50c?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 28,
+    "name": "20 000 mAh Power Bank",
+    "price": 39.99,
+    "imgUrl": "https://images.unsplash.com/photo-1570813091909-17e7dc36ecd0?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 29,
+    "name": "Smart Home Plug",
+    "price": 24.99,
+    "imgUrl": "https://images.unsplash.com/photo-1598327108385-5bd33c294ed0?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 30,
+    "name": "Digital Food Scale",
+    "price": 24.99,
+    "imgUrl": "https://images.unsplash.com/photo-1586201375761-83865001f49c?auto=format&fit=crop&w=500&q=60"
+  }
+]
